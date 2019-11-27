@@ -1,0 +1,10 @@
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\03 01-Sep-2018\ViporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb
